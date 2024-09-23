@@ -39,6 +39,7 @@ form {
     width: 400px;
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     text-align: center;
+  
 }
 
 /* Input fields */
@@ -49,12 +50,14 @@ input[type="text"], input[type="password"], input[type="email"], input[type="dat
     border: 2px solid #7695FF;
     border-radius: 5px;
     font-size: 1.1em;
+   
 }
 
 /* Radio buttons */
 label {
     font-size: 1.1em;
     color: #2A2A2A;
+    
 }
 
 input[type="radio"] {
